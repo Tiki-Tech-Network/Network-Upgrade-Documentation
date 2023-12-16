@@ -13,9 +13,9 @@ This repository contains guidance documents contributing to TTNS Network Upgrade
 
 [Onboarding Network Setup SOP]() - Juan Cano
 
-[OS Version Control with WSUS]() - Ian Bennett
+[OS Version Control with WSUS SOP]() - Ian Bennett
 
-[Termination Account Management]() - Jasmine Pressley
+[Termination Account Management SOP]() - Jasmine Pressley
 
 ## Network Upgrade Presentation 
 
