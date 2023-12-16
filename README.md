@@ -19,7 +19,7 @@ This repository contains guidance documents contributing to TTNS Network Upgrade
 
 ## Network Upgrade Presentation 
 
-[Network Upgrade Slideshow]()
+[Network Upgrade Slideshow](https://docs.google.com/presentation/d/1jVa_kd9SWHRC-UC5yZyZfZniq_CBE7qdJcDnymkTfxo/edit?usp=sharing)
 
 [Network Upgrade Video]()
 
