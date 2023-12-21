@@ -11,7 +11,7 @@ This repository contains guidance documents contributing to TTNS Network Upgrade
 
 [Network Traffic Monitoring SOP]() - David Morgan
 
-[Onboarding Network Setup SOP]() - Juan Cano
+[Onboarding Network Setup SOP](https://docs.google.com/document/d/1VvFro_gIaZXPEU9jCewMM7YS_4GvjY8-yrEvf4v-YVc/edit?usp=sharing) - Juan Cano
 
 [OS Version Control with WSUS SOP]() - Ian Bennett
 
